@@ -1,0 +1,13 @@
+0.6
+2017.2
+Jun 15 2017
+18:52:51
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.sim/sim_1/behav/glbl.v,1497407496,verilog,,,,glbl,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sim_1/new/testbench.v,1514038242,verilog,,,,testbench,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/Traffic_lights_ce.v,1513442521,verilog,,,,Traffic_lights_ce,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/blink.v,1513439954,verilog,,,,blink,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/countdown_double.v,1513588799,verilog,,,,countdown_double,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/edge_trigger.v,1513440650,verilog,,,,edge_trigger,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/emergency.v,1513443178,verilog,,,,emergency,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/fsm_lights.v,1513440329,verilog,,,,fsm_lights,,,,,,,,
+C:/Users/starrynightzyq/Verilog_learning/Traffic_lights_comprehensive_experiment/Traffic_lights_comprehensive_experiment.srcs/sources_1/new/scan_led_hex_display.v,1513045638,verilog,,,,scan_led_hex_disp,,,,,,,,

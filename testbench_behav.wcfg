@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="10000000001fs"></ZoomEndTime>
+      <Cursor1Time time="10000000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="146"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/go" type="logic">
+      <obj_property name="ElementShortName">go</obj_property>
+      <obj_property name="ObjectShortName">go</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/emergency" type="logic">
+      <obj_property name="ElementShortName">emergency</obj_property>
+      <obj_property name="ObjectShortName">emergency</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/redout_2" type="logic">
+      <obj_property name="ElementShortName">redout_2</obj_property>
+      <obj_property name="ObjectShortName">redout_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/yellowout_2" type="logic">
+      <obj_property name="ElementShortName">yellowout_2</obj_property>
+      <obj_property name="ObjectShortName">yellowout_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/greenout_2" type="logic">
+      <obj_property name="ElementShortName">greenout_2</obj_property>
+      <obj_property name="ObjectShortName">greenout_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_countdown_double_2/dh_reg" type="array">
+      <obj_property name="ElementShortName">dh_reg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dh_reg[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_countdown_double_2/dl_reg" type="array">
+      <obj_property name="ElementShortName">dl_reg[3:0]</obj_property>
+      <obj_property name="ObjectShortName">dl_reg[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_countdown_double_2/tick" type="logic">
+      <obj_property name="ElementShortName">tick</obj_property>
+      <obj_property name="ObjectShortName">tick</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_countdown_double_2/qh" type="array">
+      <obj_property name="ElementShortName">qh[3:0]</obj_property>
+      <obj_property name="ObjectShortName">qh[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_countdown_double_2/ql" type="array">
+      <obj_property name="ElementShortName">ql[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ql[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_fsm_lights/change_2" type="logic">
+      <obj_property name="ElementShortName">change_2</obj_property>
+      <obj_property name="ObjectShortName">change_2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_fsm_lights/d2_1" type="array">
+      <obj_property name="ElementShortName">d2_1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">d2_1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_fsm_lights/d2_0" type="array">
+      <obj_property name="ElementShortName">d2_0[3:0]</obj_property>
+      <obj_property name="ObjectShortName">d2_0[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/U_Traffic_lights_ce/U_fsm_lights/time_reg_2" type="array">
+      <obj_property name="ElementShortName">time_reg_2[7:0]</obj_property>
+      <obj_property name="ObjectShortName">time_reg_2[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/redout_1" type="logic">
+      <obj_property name="ElementShortName">redout_1</obj_property>
+      <obj_property name="ObjectShortName">redout_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/yellowout_1" type="logic">
+      <obj_property name="ElementShortName">yellowout_1</obj_property>
+      <obj_property name="ObjectShortName">yellowout_1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench/greenout_1" type="logic">
+      <obj_property name="ElementShortName">greenout_1</obj_property>
+      <obj_property name="ObjectShortName">greenout_1</obj_property>
+   </wvobject>
+</wave_config>
